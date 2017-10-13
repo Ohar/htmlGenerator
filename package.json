@@ -1,0 +1,18 @@
+{
+  "name": "html-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "htmlGenerator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "Pavel Lysenko aka Ohar <code@ohar.name>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
